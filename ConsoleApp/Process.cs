@@ -8,34 +8,27 @@ namespace ConsoleApp
 {
     public class Process
     {
-        IFenwicktree Calculos;
+        IFenwicktree FTree;
+        int[] freq = {2, 1, 1, 3, 2, 3, 4, 5, 6, 7, 8, 9};
+        private readonly int n = 0;
 
-        public Process(IFenwicktree calculos)
+        public Process(IFenwicktree ftree)
         {
-            Calculos = calculos;
+            n = freq.Length;
+            FTree = ftree;
         }
         public void Start()
         {
-            double result = 0;
-            double resultMatriz = 0;
-            //codigo general
+            FTree.constructBITree(freq, n);
+            Console.WriteLine("La suma de elementos en arr[0..5]" + " es " + FTree.getSum(5));
 
-            resultMatriz = RecorrerMatriz(10,20);
-
-            result = Calculos.calculo1(1);
+            // Actualizar BIT para el cambio anterior en arr[]  
+            freq[3] += 6;
+            FTree.updateBIT(n, 3, 6);
+            // Se obtiene la suma despues de que el valor se actualiza  
+            Console.WriteLine("La suma de los elementos en arr[0..5]" + " despues de actualizar es: " + FTree.getSum(5));
+            Console.ReadKey();
         }
 
-        private double RecorrerMatriz(int n , int m)
-        {
-            double val = 0;
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < m; j++)
-                {
-                    val = val + j;
-                }
-            }
-            return val;
-        }
     }
 }

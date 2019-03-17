@@ -18,9 +18,19 @@ namespace ConsoleApp.Service.Core
             return 1000;
         }
 
+        /// <summary>
+        /// Funcion que construye un arbol de fenwick apartir de un arreglo dado.
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <param name="n"></param>
         public void constructBITree(int[] arr, int n)
         {
-            throw new NotImplementedException();
+            for (int i = 1; i <= n; i++)
+                FTree[i] = 0;
+
+            // Almacena los valores reales en FTree[]  
+            for (int i = 0; i < n; i++)
+                updateBIT(n, i, arr[i]);
         }
 
         /// <summary>

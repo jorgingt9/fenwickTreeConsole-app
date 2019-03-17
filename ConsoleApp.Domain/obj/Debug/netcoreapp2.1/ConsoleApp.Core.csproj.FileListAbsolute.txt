@@ -1,0 +1,26 @@
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.deps.json
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.dll
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.pdb
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csprojAssemblyReference.cache
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfoInputs.cache
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfo.cs
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.dll
+C:\Users\juane_montoya\Documents\Visual Studio 2017\Projects\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.pdb
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.deps.json
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.dll
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.pdb
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csproj.CoreCompileInputs.cache
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfoInputs.cache
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfo.cs
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.dll
+E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.pdb
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.deps.json
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.dll
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.pdb
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csprojAssemblyReference.cache
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csproj.CoreCompileInputs.cache
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfoInputs.cache
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfo.cs
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.dll
+E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.pdb

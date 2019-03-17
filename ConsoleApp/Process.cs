@@ -8,9 +8,9 @@ namespace ConsoleApp
 {
     public class Process
     {
-        ICalculos Calculos;
+        IFenwicktree Calculos;
 
-        public Process(ICalculos calculos)
+        public Process(IFenwicktree calculos)
         {
             Calculos = calculos;
         }

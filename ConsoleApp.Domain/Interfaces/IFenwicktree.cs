@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp.Core.Interfaces
 {
-    public interface ICalculos
+    public interface IFenwicktree
     {
         double calculo1(int id);
 

@@ -23,7 +23,7 @@ namespace ConsoleApp
         {
             var builder = new ContainerBuilder();
             builder.RegisterType<Process>().SingleInstance();
-            builder.RegisterType<Calculos>().As<ICalculos>();
+            builder.RegisterType<Fenwicktree>().As<IFenwicktree>();
 
             container = builder.Build(ContainerBuildOptions.None);
         }

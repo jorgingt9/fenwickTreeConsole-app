@@ -18,7 +18,6 @@ E:\Jgallego\Documentos\ConsoleApp\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\Cons
 E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.deps.json
 E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.dll
 E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\bin\Debug\netcoreapp2.1\ConsoleApp.Core.pdb
-E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csprojAssemblyReference.cache
 E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.csproj.CoreCompileInputs.cache
 E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfoInputs.cache
 E:\Jgallego\Documentos\fenwickTreeConsole-app\ConsoleApp.Domain\obj\Debug\netcoreapp2.1\ConsoleApp.Core.AssemblyInfo.cs
